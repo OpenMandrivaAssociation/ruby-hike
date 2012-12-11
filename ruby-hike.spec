@@ -28,3 +28,10 @@ rm -rf %{buildroot}%{ruby_gemdir}/cache
 %doc %{ruby_gemdir}/doc/%{rname}-%{version}
 %{ruby_gemdir}/gems/%{rname}-%{version}
 %{ruby_gemdir}/specifications/%{rname}-%{version}.gemspec
+
+
+%changelog
+* Thu May 03 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.2.1-1
++ Revision: 795375
+- imported package ruby-hike
+
