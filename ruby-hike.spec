@@ -3,7 +3,7 @@
 Name:		ruby-%{rname}
 Summary:	A Ruby library for finding files in a set of paths
 Version:	1.2.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Ruby
 URL:		https://github.com/sstephenson/hike
